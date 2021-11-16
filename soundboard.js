@@ -1,6 +1,7 @@
 <script>
+var buttonElement = document.getElementById('Crash-Button')
 buttonElement.addEventListener('click', function () {
-  console.log('I was clicked!')
+  console.log('Crash!')
 })
 </script>
 
