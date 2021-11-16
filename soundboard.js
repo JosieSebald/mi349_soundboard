@@ -1,8 +1,7 @@
-<script>
-var audio = new Audio("crash.wav")
+var audioCrash = document.getElementById("crash")
 var buttonElement = document.getElementById('Crash-Button')
 buttonElement.addEventListener('click', function () {
-  Crash.play()
-})
-</script>
+    console.log('I was clicked!')
+    audioCrash.play()
+  })
 
