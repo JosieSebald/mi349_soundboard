@@ -10,3 +10,23 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+button {
+    width: 100px;
+    margin: 10px;
+    padding: 20px;
+    border: 10px;
+}
+
+#Crash-Button {
+    background-color: yellow;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Cow-Button {
+    background-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Scream-Button {
+background-color:red;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
